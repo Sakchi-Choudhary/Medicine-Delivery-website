@@ -197,7 +197,7 @@
 				<div class="col-md-12 text-center" style="margin-top:30px;padding-bottom:20px;"> 
 				
                     
-                    <p style="font-weight: bold; font-size: 15px;color: white;">Designed by Anjali Saravanan-Sakchi Choudhary</p>
+                    <p style="font-weight: bold; font-size: 15px;color: white;">Designed by Anjali Saravanan-Sakchi Choudhary-Priyanshu Rishi</p>
 				</div>
 				
 				
