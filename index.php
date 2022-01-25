@@ -15,7 +15,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico..........................................." />
 	<link rel="apple-touch-icon" type="image/x-icon" href="apple-touch-icon.png..............................." />
-	<title>SmartPharm</title>
+	<title>Medicine Guide</title>
 	<link rel="stylesheet" type="text/css" href="css/font-awesome.min.css" media="all" />
 	<link rel="stylesheet" type="text/css" href="css/normalize.css" media="all" />
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.css" media="all" />
@@ -36,7 +36,7 @@
 <!--            <img src="img/client-1295901_960_720.png" style="max-height: 5%;max-width: 5%;margin-left: 48%;opacity:1.0;"> <h1 style="text-align: center;color: black">Medicine Guide</h1>-->
 			<div class="container"> 
 				<div class="logo col-md-3"> 
-					<img src="logo.jpg" alt="" />
+					<img src="images/logo.png" alt="" />
 				</div>
 				<div class="menu col-md-7"> 
 					<ul class="list-unstyled list-inline pull-right">
@@ -75,7 +75,7 @@
       <div class="item active">
         <img src="images/19.jpeg" alt="Los Angeles" style="width:100%;">
           <div class="carousel-caption">
-          <h3 style="color:#312B35">SmartPharm</h3>
+          <h3 style="color:#312B35">Medicine Guide</h3>
           <p style="color: #312B35;">For your health care!!</p>
         </div>
       </div>
@@ -197,7 +197,7 @@
 				<div class="col-md-12 text-center" style="margin-top:30px;padding-bottom:20px;"> 
 				
                     
-                    <p style="font-weight: bold; font-size: 15px;color: white;">Designed by Anjali Saravanan-Sakchi Choudhary-Priyanshu Rishi</p>
+                    <p style="font-weight: bold; font-size: 15px;color: white;">Designed by AIUB@WebTechStudents</p>
 				</div>
 				
 				

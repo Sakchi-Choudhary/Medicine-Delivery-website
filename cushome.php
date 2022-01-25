@@ -115,13 +115,13 @@ session_start();
                         // Make sure we connected successfully
                         if(! $con)
                         {
-                            die('Connection Failed');
+                            die('Connection Failed'.mysql_error());
                         }
 
                         // Select the database to use
                         mysqli_select_db($con,'medicineguide');
 
-                        $result = mysqli_query($con,"SELECT cuId FROM customerlogin where cuUserName='".$_SESSION["uname"]."' and cuPassword='".$_SESSION["upass"]."';") or die("Failed to Login");
+                        $result = mysqli_query($con,"SELECT cuId FROM customerlogin where cuUserName='".$_SESSION["uname"]."' and cuPassword='".$_SESSION["upass"]."';") or die("Failed to Login".mysql_error());
 
                         $row = mysqli_fetch_array($result);
 

@@ -30,7 +30,7 @@
 <!--            <img src="img/client-1295901_960_720.png" style="max-height: 5%;max-width: 5%;margin-left: 48%;opacity:1.0;"> <h1 style="text-align: center;color: black">Medicine Guide</h1>-->
 			<div class="container"> 
 				<div class="logo col-md-3"> 
-					<img src="logo.jpg" alt="" />
+					<img src="images/logo.png" alt="" />
 				</div>
 				<div class="menu col-md-7"> 
 					<ul class="list-unstyled list-inline pull-right">
@@ -77,8 +77,10 @@
                 <div class="form-group">
 				<label for="region" style="font-weight: bold;color: #000000;">Region:</label>
 				    <select name="region">
-                        <option value="Chennai">Chennai</option>
-                        
+                        <option value="Mirpur">Mirpur</option>
+                        <option value="Uttara">Uttara</option>
+                        <option value="Dhanmondi">Dhanmondi</option>
+                        <option value="Bashundhara">Bashundhara</option>
                     </select>
 			  </div>
                 
